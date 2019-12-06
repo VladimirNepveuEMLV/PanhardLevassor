@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Hind|Roboto&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+img{
+	height: 200px;}
+body{
+	font-family: 'Hind', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+a:hover {
+	color: #A2A2A2 ;
+}
